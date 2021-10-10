@@ -140,3 +140,32 @@ footer {
 }
 
 /******* END FOOTER IN HOMEPAGE ******/
+
+/************************* GALERIE PAGE *************************/
+
+main {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+ 
+.title-galery {
+   text-align: center;
+   color: #000000b2;
+}
+ 
+.galery-main {
+   width: 100%;
+   max-width: 1200px;
+   margin: 0 auto; /* margin: 0 auto; = margin: auto; */
+}
+ 
+.img-galery {
+   margin: 20px;
+}
+ 
+.img-galery > img {
+   border-radius: 5px;
+}
+ 
+/*************** END GALERIE PAGE ****************/
