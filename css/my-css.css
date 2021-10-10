@@ -208,3 +208,26 @@ article > figure {
 }
  
 /*********** END TARIFS PAGE ***********/
+
+/******************* ABOUT PAGE *******************/
+
+.first-para {
+   margin: 40px;
+}
+ 
+.about-present {
+   display: flex;
+}
+ 
+.about-present > figure > img {
+   border-radius: 5px;
+}
+ 
+.name-photographe {
+   float: right;
+   margin-right: 40px;
+   font-weight: bold;
+   font-size: 20px;
+}
+ 
+/*********** END ABOUT PAGE **********/
