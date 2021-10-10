@@ -114,7 +114,7 @@ button a {
 
 /******* FOOTER IN HOMEPAGE ******/
 
-/* footer {
+footer {
    display: flex;
    background-color: #fff;
    margin-top: 50px;
@@ -137,6 +137,6 @@ button a {
  
 .links a {
    color: #000000b2;
-} */
+}
 
 /******* END FOOTER IN HOMEPAGE ******/
