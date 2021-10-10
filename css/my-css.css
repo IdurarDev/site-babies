@@ -83,3 +83,60 @@ button a {
 }
 
 /******* END PRESENTATION IN INDEX PAGE ******/
+
+/******* IMAGES GALERY IN HOMEPAGE ******/
+
+.home-galery {
+   display: flex;
+   justify-content: space-between;
+   background-color: #F2F2F2;
+   padding-top: 30px;
+   padding-bottom: 40px;
+   width: 100%;
+}
+ 
+.card-descript {
+   background-color: #fff;
+   padding: 10px;
+   height: 100px;
+}
+ 
+.card-descript a {
+   text-decoration: none;
+   color:#000000b2
+}
+ 
+.card-descript a:hover {
+   text-decoration: underline;
+}
+
+/******* END IMAGES GALERY IN HOMEPAGE ******/
+
+/******* FOOTER IN HOMEPAGE ******/
+
+/* footer {
+   display: flex;
+   background-color: #fff;
+   margin-top: 50px;
+}
+ 
+.logo-footer {
+   margin: 25px;
+}
+ 
+.link-footer {
+   display: flex;
+   margin: 0 auto;
+   width: 420px;
+}
+ 
+.links {
+   padding: 10px;
+   margin: 25px;
+}
+ 
+.links a {
+   color: #000000b2;
+} */
+
+/******* END FOOTER IN HOMEPAGE ******/
