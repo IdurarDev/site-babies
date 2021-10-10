@@ -7,3 +7,15 @@
 header {
    margin-bottom: 30px;
 }
+
+/******* BANNER IN ALL PAGE ******/
+
+.banner-home figure img {
+   width: 100%;
+}
+
+.banner-home figure {
+   margin: 0;
+}
+ 
+ /******* END BANNER IN ALL PAGE ******/
