@@ -18,4 +18,26 @@ header {
    margin: 0;
 }
  
- /******* END BANNER IN ALL PAGE ******/
+/******* END BANNER IN ALL PAGE ******/
+
+/******* NAVBAR IN ALL PAGE ******/
+
+.link-navbar {
+   display: flex;
+   justify-content: space-around;
+}
+ 
+li {
+   list-style: none;
+}
+ 
+li a {
+   text-decoration: none;
+   color: #000000b2;
+}
+ 
+li a:hover {
+   text-decoration: underline;
+}
+
+/******* END NAVBAR IN ALL PAGE ******/
