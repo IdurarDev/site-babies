@@ -41,3 +41,45 @@ li a:hover {
 }
 
 /******* END NAVBAR IN ALL PAGE ******/
+
+/******* PRESENTATION IN INDEX PAGE ******/
+
+.presentation  {
+   display: flex;
+   justify-content: space-between;
+   background-color: #F2F2F2;
+   margin-top: 50px;
+   margin-bottom: 30px;
+}
+ 
+.block-left {
+   padding: 30px;
+}
+ 
+.title-preview {
+   color: #000000b2;
+   text-align: center;
+   width: 100%;
+   background-color: #F2F2F2;
+   padding-top: 20px;
+   margin-bottom: 0;
+}
+ 
+button {
+   background-color: #000000b2;
+   min-width: 150px;
+   border-radius: 3px;
+   padding: 10px;
+}
+button a {
+   text-decoration: none;
+   font-weight: bold;
+   color: #fff;
+   padding: 10px;
+}
+ 
+.block-right > img {
+   border-radius: 5px;
+}
+
+/******* END PRESENTATION IN INDEX PAGE ******/
