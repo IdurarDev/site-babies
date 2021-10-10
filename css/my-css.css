@@ -229,5 +229,57 @@ article > figure {
    font-weight: bold;
    font-size: 20px;
 }
- 
+
 /*********** END ABOUT PAGE **********/
+
+/******************* CONTACT PAGE *****************/
+
+.contact-us {
+   text-align: center;
+}
+ 
+.contact-form {
+   max-width: 600px;
+   max-height: 500px;
+   padding: 30px 0px;
+   margin: 0 auto;
+   border-radius: 5px;
+   background-color: #F3EEEE;
+}
+ 
+ 
+.form {
+   margin: 0 auto;
+}
+ 
+label, textarea {
+   margin: 10px;
+   padding: 10px;
+}
+ 
+input, textarea {
+   width: 100%;
+   padding: 7px;
+   margin: 5px;
+}
+ 
+.btn {
+   cursor: pointer;
+   background-color: #d3bdbd;
+   max-width: 200px;
+   display: block;
+   margin: 0 auto;
+   border-radius: 3px;
+}
+ 
+.btn:hover {
+   background-color: #b19a9a;
+}
+ 
+.link-footer-contact {
+   display: flex;
+   margin: 0 auto;
+   width: 530px;
+}
+ 
+/******* END CONTACT PAGE *****/
