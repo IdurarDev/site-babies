@@ -169,3 +169,42 @@ main {
 }
  
 /*************** END GALERIE PAGE ****************/
+
+/******************** TARIFS PAGE ******************/
+
+.tarif-main {
+   background-color: #F2F2F2;
+}
+ 
+.galery {
+   display: flex;
+   max-width: 1200px;
+   flex-wrap: wrap;
+   margin: 0 auto;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+ 
+article > figure {
+     padding: 30px;
+     min-width: 250px;
+     min-height: 330px;
+}
+ 
+.figure-tarifs {
+   text-align: center;
+   background-color: #fff;
+   border-radius: 5px;
+   border: 1px solid #000000b2;
+}
+ 
+.title-tarifs {
+   margin-top: 0;
+}
+ 
+.p-tarifs {
+   max-width: 200px;
+   margin: 0 auto;
+}
+ 
+/*********** END TARIFS PAGE ***********/
